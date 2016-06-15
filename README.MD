@@ -1,5 +1,7 @@
 ### Async run with ES6 yield function like a charm
 
+    npm install async-run
+
 Example:
 
     //The Async function

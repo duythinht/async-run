@@ -9,6 +9,13 @@
     "start": "babel-node source",
     "prepublish": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:duythinht/async-run.git"
+  },
+  "bugs": {
+    "url": "https://github.com/duythinht/async-run/issues"
+  },
   "author": "Thinh \"Adolf Weismann\" Tran",
   "license": "ISC",
   "devDependencies": {
