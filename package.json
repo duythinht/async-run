@@ -1,6 +1,6 @@
 {
   "name": "async-run",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Async run like a charm",
   "main": "./distribution/index.js",
   "scripts": {
