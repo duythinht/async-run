@@ -2,6 +2,7 @@ language: node_js
 node_js:
 - "6"
 install:
-- git config --global user.email "ktyacke@gmail.com"
-- git config --global user.name "Kyle Tyacke"
+- git config --global user.email "duythinht@gmail.com"
+- git config --global user.name "Thinh Tran"
 - npm install -g babel-cli mocha chai
+- npm install --only=dev
