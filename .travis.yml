@@ -1,5 +1,7 @@
 language: node_js
 node_js:
 - "6"
-- "6.1"
-- "5"
+before_script:
+- git config --global user.email "ktyacke@gmail.com"
+- git config --global user.name "Kyle Tyacke"
+- npm install -g babel-cli mocha chai
