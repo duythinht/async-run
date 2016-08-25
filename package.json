@@ -1,7 +1,7 @@
 {
   "name": "async-run",
-  "version": "1.0.0",
-  "description": "Guess a number",
+  "version": "1.0.2",
+  "description": "Async run like a charm",
   "main": "./distribution/index.js",
   "scripts": {
     "test": "mocha source/test --compilers js:babel-register --watch",
