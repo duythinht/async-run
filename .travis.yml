@@ -6,3 +6,5 @@ install:
 - git config --global user.name "Thinh Tran"
 - npm install -g babel-cli mocha chai
 - npm install --only=dev
+script:
+- npm run build
